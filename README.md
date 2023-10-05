@@ -25,5 +25,5 @@
 
 
 ## Пример
-![Output](\ScreenRecorderProject1.gif)
+![Output](https://github.com/novoselov-ie/OpenCV_blob_detection/blob/master/ScreenRecorderProject1.gif)
 
